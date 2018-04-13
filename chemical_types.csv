@@ -1,0 +1,23 @@
+Label,Code
+Amide C / Carboxylate C,1
+Amide N,2
+Amide O,3
+Aliphatic C,4
+Aromatic C,6
+Alcohol O,7
+Thioether S,5
+Thiol S,8
+Carboxylate O,9
+Protonated aromatic N,10
+Primary amine N,11
+Guanidinium N,12
+Guanidinium C,13
+Imine N,14
+Imine C,15
+Phosphoester O,16
+Phosphate P,17
+Pyrophosphate acidic O,18
+Pyrophosphate bridging O,19
+Ether O,20
+Neutral aromatic N,21
+Aniline N,22
